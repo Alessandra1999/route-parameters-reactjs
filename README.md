@@ -13,3 +13,5 @@ Utilizar parâmetros de rotas para exibir detalhes dinâmicos.
 - Crie um componente UserDetail.jsx que exiba detalhes de um usuário com base em um parâmetro de rota (por exemplo, userId).
 - No App.jsx, defina uma rota dinâmica para o componente UserDetail.jsx utilizando um parâmetro de rota.
 - No UserDetail.jsx, utilize o hook useParams para acessar o parâmetro de rota e exibir as informações correspondentes.
+
+### Você pode acessar através do link: https://alessandra1999.github.io/route-parameters-reactjs/
